@@ -6,7 +6,7 @@
 // @author       ni idea
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
-// @homepage     https://github.com/LordPanquesito/ElGranBosquePixelCanvas
+// @homepageURL      https://github.com/LordPanquesito/ElGranBosquePixelCanvas
 // @updateURL    https://raw.githubusercontent.com/LordPanquesito/ElGranBosquePixelCanvas/master/minimap.user.js
 // @downloadURL  https://raw.githubusercontent.com/LordPanquesito/ElGranBosquePixelCanvas/master/minimap.user.js
 // @grant        none
