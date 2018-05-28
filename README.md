@@ -1,4 +1,4 @@
-# LLpixel
+# EL Gran Bosque Pixelcanvas
 
 ### Setup
 #### Step 1: Teampermonkey 
