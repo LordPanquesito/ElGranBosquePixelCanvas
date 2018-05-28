@@ -1,21 +1,21 @@
 // ==UserScript==
-// @name         LLpixel Minimap
-// @namespace    LLpixel
-// @version      3.2
-// @description  Pixelcanvas Minimap for LL Templates
-// @author       Some Anon
+// @name         ElGran bosque pixelcanvas
+// @namespace    LKP
+// @version      1.0
+// @description  Pixelcanvas Minimap para El gran bosque
+// @author       ni idea
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
-// @homepage     https://github.com/srdwly/llpixel
-// @updateURL    https://raw.githubusercontent.com/srdwly/llpixel/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/srdwly/llpixel/master/minimap.user.js
+// @homepage     https://github.com/LordPanquesito/ElGranBosquePixelCanvas
+// @updateURL    https://raw.githubusercontent.com/LordPanquesito/ElGranBosquePixelCanvas/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/LordPanquesito/ElGranBosquePixelCanvas/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
 //ref:https://stackoverflow.com/questions/4604663/download-single-files-from-github
 //github raw file url  template
 //https://raw.githubusercontent.com/user/repository/branch/filename
-//https://raw.githubusercontent.com/srdwly/llpixel/master/README.md
+//https://raw.githubusercontent.com/LordPanquesito/ElGranBosquePixelCanvas/master/README.md
 
 window.baseTepmlateUrl = 'https://raw.githubusercontent.com/LordPanquesito/ElGranBosquePixelCanvas/master';
 
